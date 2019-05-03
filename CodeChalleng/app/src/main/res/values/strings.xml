@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Code Challeng</string>
+    <string name="problem_internet">Problemas com a conexão, tente novamente ! </string>
+    <string name="stars">Stars:</string>
+    <string name="name">Nome</string>
+    <string name="login_name">Login</string>
+    <string name="number">32514</string>
+</resources>
